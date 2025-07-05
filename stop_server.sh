@@ -1,2 +1,2 @@
 #!/bin/bash
-service tomcat10 stop -y
+service tomcat10 stop 
